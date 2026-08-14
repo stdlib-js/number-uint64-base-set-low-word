@@ -39,7 +39,8 @@
   "dependencies": {
     "@stdlib/number-uint64-base-get-high-word": "github:stdlib-js/number-uint64-base-get-high-word#main",
     "@stdlib/number-uint64-ctor": "github:stdlib-js/number-uint64-ctor#main",
-    "@stdlib/types": "^0.5.1"
+    "@stdlib/types": "^0.5.1",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.3"
   },
   "devDependencies": {
     "@stdlib/assert-is-uint64": "github:stdlib-js/assert-is-uint64#main",
